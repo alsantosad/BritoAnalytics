@@ -1,9 +1,8 @@
 <h1 align="center">Olá, eu sou o Alessandro Brito</h1><h3 align="center">Desenvolvedor back-end e Analista de Dados</h3>
 
 
-<br>
-🌱 - Aprimorando-se em **Análise de Dados**
-<br>
+
+🌱 - Aprimorando-se em **Análise de Dados**  
 👨 - Todos os meus projetos estão disponíveis em [Repositorios](https://github.com/alsantosad?tab=repositories)
 
 <br><br>
