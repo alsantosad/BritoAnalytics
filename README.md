@@ -1,4 +1,4 @@
-# Alessandro Brito Aqui!
+# Alessandro Brito Aqui !
 Estou em transição de carreira, Sou apaixonado por tecnologia, Autodidata, dedicado e resiliente, possuo habilidades em liderança, comunicação e experiência em negócios, tendo gerenciado autonomamente 6 lojas desde 2008, apesar do desafio de fechá-las devido à pandemia.
 
 Atualmente, estou entusiasmado com a oportunidade de retornar ao mercado de trabalho, trazendo uma bagagem enriquecedora de experiências e métodos. Em 2023, iniciei a Formação em Análise de Dados no Senac, adotando a metodologia Resilia. Reconheço a importância crítica dos dados para empresas atingirem rapidamente seus objetivos. A habilidade em visualizar informações, obter insights e aplicar estatísticas são diferenciais essenciais.
@@ -22,7 +22,7 @@ Estou ansioso para contribuir com minha experiência e conhecimento na minha pro
 <div>
 <a href="https://github.com/BritoAnalytics">
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsantosad&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=alsantosad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=alsantosad&rank_icon=github&theme=dracula"/>
 </div>
 
 ## ***Tecnologias e ferramentas***
@@ -37,7 +37,7 @@ Estou ansioso para contribuir com minha experiência e conhecimento na minha pro
           
 ## ***Em aprendizado***
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" width="70" height="70"/>        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="70" height="70"/>         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="70" height="70"/>           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="70" height="70"/>      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70" />            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70" />          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="70" height="70" />                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" width="70" height="70"/>        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="70" height="70"/>         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" height="70"/>           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="70" height="70"/>      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70" />            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70" />          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="70" height="70" />                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="70" height="70"/>
           
 
           
@@ -48,3 +48,8 @@ Estou ansioso para contribuir com minha experiência e conhecimento na minha pro
 
 ##### Informações
 Para a produção, foi utilizado o site Devicon, que pode ser acessado clicando no ícone presente na área "Outros conhecimentos".
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<br></div>
