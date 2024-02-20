@@ -1,27 +1,54 @@
-<h1 align="center">Olá, eu sou o Alessandro Brito</h1><h3 align="center">Desenvolvedor back-end e Analista de Dados</h3>
+# Alessandro Brito Aqui!
+
+## ***Olá Galera!***
+
+Alessandro aqui!
+Estou em transição de carreira, Sou apaixonado por tecnologia, Autodidata, dedicado e resiliente, possuo habilidades em liderança, comunicação e experiência em negócios, tendo gerenciado autonomamente 6 lojas desde 2008, apesar do desafio de fechá-las devido à pandemia.
+
+Atualmente, estou entusiasmado com a oportunidade de retornar ao mercado de trabalho, trazendo uma bagagem enriquecedora de experiências e métodos. Em 2023, iniciei a Formação em Análise de Dados no Senac, adotando a metodologia Resilia. Reconheço a importância crítica dos dados para empresas atingirem rapidamente seus objetivos. A habilidade em visualizar informações, obter insights e aplicar estatísticas são diferenciais essenciais.
+
+Participei de projetos colaborativos com equipes de diferentes unidades do Senac, destacando-se:
+
+Desenvolvimento de um Aplicativo de Delivery (Python)
+Criação de um Aplicativo de Pesquisa de Campo e Visualização dos Dados (Python, PowerBI e SQL)
+Modelagem de Banco de Dados Institucional (Python, SQL, PowerBI)
+Análise de Preços de Combustíveis dos ultimos meses. (Python, Colab, Pandas, Numpy, PowerBI)
 
 
-
-🌱 - Aprimorando-se em **Análise de Dados**  
-👨 - Todos os meus projetos estão disponíveis em [Repositorios](https://github.com/alsantosad?tab=repositories)
-
-<br><br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alsantosad&show_icons=true&locale=en&layout=compact" alt="alsantosad" />
-
-&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=alsantosad&show_icons=true&locale=en" alt="alsantosad" /></p></p><p>
+Estou ansioso para contribuir com minha experiência e conhecimento na minha proxima empreitada.
 
 
-<br>
-<h3 align="left">Conecte comigo:</h3>
-<p align="left">
-<div dir="auto"> 
-  <a href="https://discord.gg/darkbotbr" rel="nofollow"><img src="https://camo.githubusercontent.com/3f990cfefb64f13d28397fe586c3aa38a81fde585de479205d63c79363ebe07a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3732383944413f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a> 
-  <a href="mailto:alsantosbrito@gmail.com"><img src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="www.linkedin.com/in/alessandro-brito-220ba6266" rel="nofollow"><img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> 
+## *Redes sociais e contatos*
+<a href="https://instagram.com/alsantosbrito" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "mailto:contato@guwinner1@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/outlook-1167fa?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>  <a href="https://www.linkedin.com/in/alessandrobritoad/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Linkedin-1167fa?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+## Aproveitamento
+
+<div>
+<a href="https://github.com/BritoAnalytics">
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsantosad&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=alsantosad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-</p>
 
-<h3 align="left">Idiomas e Ferramentas:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="frasco" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## ***Tecnologias e ferramentas***
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" />        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="70" height="70" />        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="70" height="70" />        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="70" height="70" />
+          
 
+## ***Bibliotecas***
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="70" height="70" />        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70" height="70"/>      <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/1280px-scikit-learn-logo.png" width="100" height="60"/>
+          
+
+## ***Em aprendizado***
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" width="70" height="70"/>        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="70" height="70"/>         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="70" height="70"/>           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="70" height="70"/>      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" height="70" />            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70" />          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="70" height="70" />                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="70" height="70"/>
+          
+
+          
+## ***Outros conhecimentos***
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="70" height="70"/>      [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="70" height="70"/>](https://devicon.dev)
+          
+
+##### Informações
+Para a produção, foi utilizado o site Devicon, que pode ser acessado clicando no ícone presente na área "Outros conhecimentos".
