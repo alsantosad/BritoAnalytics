@@ -1,18 +1,14 @@
 # Alessandro Brito Aqui!
-
-## ***Olá Galera!***
-
-Alessandro aqui!
 Estou em transição de carreira, Sou apaixonado por tecnologia, Autodidata, dedicado e resiliente, possuo habilidades em liderança, comunicação e experiência em negócios, tendo gerenciado autonomamente 6 lojas desde 2008, apesar do desafio de fechá-las devido à pandemia.
 
 Atualmente, estou entusiasmado com a oportunidade de retornar ao mercado de trabalho, trazendo uma bagagem enriquecedora de experiências e métodos. Em 2023, iniciei a Formação em Análise de Dados no Senac, adotando a metodologia Resilia. Reconheço a importância crítica dos dados para empresas atingirem rapidamente seus objetivos. A habilidade em visualizar informações, obter insights e aplicar estatísticas são diferenciais essenciais.
 
 Participei de projetos colaborativos com equipes de diferentes unidades do Senac, destacando-se:
 
-Desenvolvimento de um Aplicativo de Delivery (Python)
-Criação de um Aplicativo de Pesquisa de Campo e Visualização dos Dados (Python, PowerBI e SQL)
-Modelagem de Banco de Dados Institucional (Python, SQL, PowerBI)
-Análise de Preços de Combustíveis dos ultimos meses. (Python, Colab, Pandas, Numpy, PowerBI)
+* Desenvolvimento de um Aplicativo de Delivery (Python)
+* Criação de um Aplicativo de Pesquisa de Campo e Visualização dos Dados (Python, PowerBI e SQL)
+* Modelagem de Banco de Dados Institucional (Python, SQL, PowerBI)
+* Análise de Preços de Combustíveis dos ultimos meses. (Python, Colab, Pandas, Numpy, PowerBI)
 
 
 Estou ansioso para contribuir com minha experiência e conhecimento na minha proxima empreitada.
